@@ -1,11 +1,11 @@
 Чьё тело найдено?
-actress
+colonel
 
 У кого есть основания желать смерти сему телу?
-colonel, countess, baronet
+actress, countess, baronet
 
 Где найдено тело?
-bedroom
+cellars
 
 Кто имел доступ в это помещение?
 colonel, minister, moriarty, baronet, drwatson, maid

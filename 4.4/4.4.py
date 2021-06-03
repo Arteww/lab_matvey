@@ -1,7 +1,6 @@
 import random
-
 N = 20
-diapason = (0, 200)
+diapason = (0, 500)
 random_list = [random.randint(*diapason) for i in range(N)]
 print(random_list)
 for i in range(N):

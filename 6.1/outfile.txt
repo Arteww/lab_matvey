@@ -1,17 +1,30 @@
-symbols: 445
-letters: 369
-other symbols (not letters): 76
+symbols: 372
+letters: 297
+other symbols (not letters): 75
 
-a: 36;	b: 4
-c: 17;	d: 10
-e: 40;	f: 8
-g: 13;	h: 10
-i: 28;	j: 1
-k: 4;	l: 17
-m: 12;	n: 29
-o: 24;	p: 14
-q: 0;	r: 22
-s: 29;	t: 28
-u: 11;	v: 2
-w: 1;	x: 2
-y: 6;	z: 1
+a: 27
+b: 11
+c: 7
+d: 11
+e: 36
+f: 6
+g: 5
+h: 19
+i: 30
+j: 0
+k: 1
+l: 20
+m: 7
+n: 16
+o: 13
+p: 8
+q: 0
+r: 21
+s: 18
+t: 23
+u: 6
+v: 4
+w: 6
+x: 0
+y: 2
+z: 0

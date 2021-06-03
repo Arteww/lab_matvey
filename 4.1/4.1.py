@@ -1,11 +1,11 @@
-import numpy as np
-
-with open('outfile.txt', 'w', encoding='utf-8') as outfile:
-    N = 5
-    float_list = list(np.random.rand(N))
-    outfile.write(str(float_list) + '\n')
-
-    max_ind = float_list.index(max(float_list))
-    min_ind = float_list.index(min(float_list))
-    float_list[max_ind], float_list[min_ind] = float_list[min_ind], float_list[max_ind]
-    outfile.write(str(float_list))
+import random
+N = 5
+random_list = []
+with open('outfile.txt', 'w', encoding='utf-8') as file:
+    for i in range(N):
+        random_list.append(random.random())
+    file.write(str(random_list) + '\n')
+    max = random_list.index(max(random_list))
+    min = random_list.index(min(random_list))
+    random_list[max], random_list[min] = random_list[min], random_list[max]
+    file.write(str(random_list))
