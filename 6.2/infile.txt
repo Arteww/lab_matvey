@@ -1,0 +1,14 @@
+Чьё тело найдено?
+actress
+
+У кого есть основания желать смерти сему телу?
+colonel, countess, baronet
+
+Где найдено тело?
+bedroom
+
+Кто имел доступ в это помещение?
+colonel, minister, moriarty, baronet, drwatson, maid
+
+У кого есть железное алиби?
+moriarty, narrator, sheepdog, stranger, mp
